@@ -7,7 +7,7 @@ Hello
 # HELLO
 hello everyone 
 are you all fine 
-i am just here say thanq
+i am just here 
 
 # student
 thanq to all my teachers Manjeet Sir, Dada Kaliram, Gudia Didi, Manuj Sir  
